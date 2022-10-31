@@ -2,9 +2,9 @@ Metadata-Version: 2.1
 Name: DescomplicandoACria-oDePacotes
 Version: 0.0.1
 Summary: DIO project
-Home-page: https://github.com/ANACAPELETTI/DescomplicandoACriaçãoDePacotes
-Author: Ana Capeletti
-Author-email: anaalm@alunos.utfpr.edu.br
+Home-page: https://github.com/CezarMNeto/DescomplicandoACriaçãoDePacotes
+Author: Cezar J. Martins Neto
+Author-email: cezarmartins@msn.com
 Requires-Python: >=3.8
 Description-Content-Type: text/markdown
 
@@ -31,7 +31,7 @@ file1_name.my_function()
 ```
 
 ## Author
-Ana Capeletti 
+Cezar J. Martins Neto
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
